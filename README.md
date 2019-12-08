@@ -1,2 +1,3 @@
-# Django
-https://www.djangoproject.com
+# todoapp
+
+Django To-Do app
